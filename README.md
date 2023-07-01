@@ -27,4 +27,4 @@
 # Graduation Project
 | Subject                         | Language & FrameWork & DataBase            | Grade |Professor |
 |:-------------------------------:|:------------------------:|:-----:|:-----:|
-| **Project1**| **HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL**| **A+**| **권건우**| 
+| **Project1**| **HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL**| **A+**| 권건우| 
