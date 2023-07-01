@@ -1,3 +1,18 @@
+
+
+# Computer Science
+| Subject                         | Language                 | DataBase| Grade |
+|:-------------------------------:|:------------------------:|:-----:|:-----:|
+| **Logic Circuits And Lab**               |                     || **B0**|
+| **Data Communication** |                   || **A+**|
+| **Algorithm And Analysis**               |                     || **B+**|
+| **Computer Architecture** | **Verilog**                  || **A+**|
+| **Computer Network** |               || **B+**|
+| **DataBase** | **Java**      |**PostgreSQL**| **A+**|
+| **Data Structure** | **C++**             || **A+**|
+| **Operating System**             | | | **A0**|
+| **Software Engineering** | **C++, UML**              || **A+**|
+
 # Programming Languages
 
 | Subject                         | Language                 | Grade |
@@ -9,19 +24,3 @@
 | **Matlab Programming And Practice** | **Matlab**             | **A0**|
 | **Web Programming**             | **HTML, CSS, JavaScript**| **A+**|
 
-# Computer Science
-| Subject                         | Language                 | DataBase| Grade |
-|:-------------------------------:|:------------------------:|:-----:|:-----:|
-| **Algorithm**               |                     || **B+**|
-| **Computer Architecture** | **Verilog**                  || **A+**|
-| **Computer Network** |               || **B+**|
-| **DataBase** | **Java**      |**PostgreSQL**| **A+**|
-| **Data Structure** | **C++**             || **A+**|
-| **Operating System**             | | | **A0**|
-
-# ETC
-| Subject                         | Language                 | Grade |
-|:-------------------------------:|:------------------------:|:-----:|
-| **Logic Circuits And Lab**               |                     | **B0**|
-| **Data Communication** |                   | **A+**|
-| **Software Engineering** | **C++, UML**              | **A+**|
