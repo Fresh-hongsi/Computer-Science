@@ -18,3 +18,10 @@
 | **DataBase** | **Java**      |**PostgreSQL**| **A+**|
 | **Data Structure** | **C++**             || **A+**|
 | **Operating System**             | | | **A0**|
+
+# ETC
+| Subject                         | Language                 | Grade |
+|:-------------------------------:|:------------------------:|:-----:|
+| **Logic Circuits And Lab**               |                     | **B0**|
+| **Data Communication** |                   | **A+**|
+| **Software Engineering** | **C++, UML**              | **A+**|
