@@ -1,6 +1,6 @@
 # Programming Languages
 
-| Subject | Language | Grade
+| Subject | Language | Grade |
 
 |:----:|:----:|:----:|
 | **C Programming** | **C**   | **A+**| 
