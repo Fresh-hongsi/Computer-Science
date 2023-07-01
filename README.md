@@ -12,7 +12,7 @@
 # Computer Science
 | Subject                         | Language                 | DataBase| Grade |
 |:-------------------------------:|:------------------------:|:-----:|:-----:|
-| **Algorhithm**               |                     || **B+**|
+| **Algorithm**               |                     || **B+**|
 | **Computer Architecture** | **Verilog**                  || **A+**|
 | **Computer Network** |               || **B+**|
 | **DataBase** | **Java**      |**PostgreSQL**| **A+**|
