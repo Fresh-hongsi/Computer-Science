@@ -1,9 +1,8 @@
 # Computer-Science
-# 성적
 
-| 과목 | 점수 |
-|------|------|
-| 수학 | 90   |
+| Subject | Language | Grade
+|------|------|-------|
+| C Programming | C   | A+| 
 | 과학 | 85   |
 | 영어 | 95   |
 
