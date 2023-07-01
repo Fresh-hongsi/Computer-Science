@@ -5,11 +5,11 @@
 |:-------------------------------:|:------------------------:|:-----:|:-----:|:-----:|
 | **Logic Circuits And Lab**               |                     || **B0**|이준용|
 | **Data Communication** |                   || **A+**|심영철|
+| **Data Structure** | **C++**             || **A+**|이혜영|
 | **Algorithm And Analysis**               |                     || **B+**|하란|
 | **Computer Architecture** | **Verilog**                  || **A+**|권건우|
 | **Computer Network** |               || **B+**|박준상|
 | **DataBase** | **Java**      |**PostgreSQL**| **A+**|윤영|
-| **Data Structure** | **C++**             || **A+**|이혜영|
 | **Operating System**             | | | **A0**|이장호|
 | **Software Engineering** | **C++, UML**              || **A+**|김은삼|
 
