@@ -26,7 +26,7 @@
 | **Web Programming**             | **HTML, CSS, JavaScript**| **A+**|이용오|
 
 # Graduation Project
-| Subject                         | Language & FrameWork & DataBase            | Grade |Professor |
+| Subject                         | Language & FrameWork & DataBase            | Grade |Professor |Prize |
 |:-------------------------------:|:------------------------:|:-----:|:-----:|
 | **Project1**| **HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL**| **A+**| 권건우| 
-| **Project2**| **HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL**| **A+**| 권건우| 졸업 전시회 우수 작품 선정(장려상)
+| **Project2**| **HTML, CSS, JavaScript, React, Java, Spring Boot, PostgreSQL**| **A+**| 권건우| 졸업 전시회 우수 작품 선정(장려상) |
