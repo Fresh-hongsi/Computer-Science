@@ -1,7 +1,7 @@
 # About
 본 레포지토리는 학부과정의 주요 과목들을 수강하며 수행한 과제 및 프로젝트들의 모음입니다.
-총 평점:    4.03/4.5
-전공 평점:  4.18/4.5
+총 평점:    4.03/4.5  
+전공 평점:  4.18/4.5  
 
 # Computer Science
 | Subject                         | Language                 | DataBase| Grade |Professor |
