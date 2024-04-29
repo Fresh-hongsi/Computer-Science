@@ -6,9 +6,9 @@
 전공 평점:  4.18/4.5  
 
 # Computer Science
-| Subject                         | Language                 | DataBase| Grade |Professor |
-|:-------------------------------:|:------------------------:|:-----:|:-----:|:-----:|
-| **Logic Circuits And Lab**               |                     || **B0**|이준용|
+| Subject                         | Language                 | DataBase| Grade |Professor | Semester |
+|:-------------------------------:|:------------------------:|:-----:|:-----:|:-----:|:-----:|
+| **Logic Circuits And Lab**               |                     || **B0**|이준용| 2-1|
 | **Data Communication** |                   || **A+**|심영철|
 | **Data Structure** | **C++**             || **A+**|이혜영|
 | **Algorithm And Analysis**|**C**                                   || **B+**|하란|
